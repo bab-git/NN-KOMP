@@ -8,4 +8,4 @@ This code solves the following problem with Cholesky decomposition:
    
 
 ## Using KNNLS
-- Try nnkomp_demo.m for a simple example for the proper usage of NN-KOMP).
+- Try nnkomp_demo.m for a simple example for the proper usage of NN-KOMP.
